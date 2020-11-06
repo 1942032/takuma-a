@@ -1,0 +1,186 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+  body{
+    font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
+    }
+
+    .wrap {
+      overflow: hidden;
+  }
+    #bg{
+      background-color: #C20C23;
+      width: 100%;
+      padding: 10px;
+      margin-top: 100px;
+    }
+
+  .container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.clearlist{
+  content: "";
+  display: block;
+  clear: both;
+}
+#site_logo{
+   float: left;
+   width: 65%;
+   margin-top: 50px;
+}
+
+#site_reserve{
+   float: right;
+   width: 35%;
+   text-align: right;
+   margin-top: 50px;
+}
+
+.clearlist{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+
+#mokuji{
+  margin: 10px auto;
+  width:1200px;
+  margin-top:100px;
+  float: center;
+  background-color: #EEEEEE;
+  padding: 3%;
+}
+
+#main_1{
+  float: left;
+    margin: 10px auto;
+    width: 100%;
+    margin-top:40px;
+}
+
+#main_2{
+  float: right;
+  width: 20%;
+  margin-top:-200px;
+}
+.main3{
+  margin: 1em 0;
+  padding: 1em;
+  background-color: #b3e5fc;
+  width: 50%;
+  margin-left: 100px;
+}
+.main3 p{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.cafe {
+  text-align: left;
+    margin: 10px auto;
+    width:1000px;
+    margin-top: 100px;
+  }
+
+  [class^="a"] {
+    margin-bottom: 20px;
+    display: -webkit-flex;
+    display: flex;
+    margin: 10px auto;
+    width:1000px;
+    margin-top: 80px;
+  }
+  
+  .img-flex-2 img { width: calc( 100% / 2 ); }
+  .img-flex-3 img { width: calc( 100% / 3 ); }
+  .img-flex-4 img { width: calc( 100% / 4 ); }
+
+  
+
+  .レジャー {
+    text-align: left;
+    margin: 10px auto;
+    width:1000px;
+    margin-top: 150px;
+  }
+
+
+  [class^="b"] {
+    margin-bottom: 20px;
+    display: -webkit-flex;
+    display: flex;
+    margin: 10px auto;
+    width:1000px;
+    margin-top: 80px;
+  }
+  
+  .img-flex-2 img { width: calc( 100% / 2 ); }
+  .img-flex-3 img { width: calc( 100% / 3 ); }
+  .img-flex-4 img { width: calc( 100% / 4 ); }
+  
+
+  .rv{
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 70px;
+  }
+
+  #access{
+    text-align: left;
+    margin-top: 150px;
+
+  }
+  #access iframe{
+         width: 100%;
+  }
+
+  #access_logo{
+    margin-bottom: -40px;
+  }
+
+  #access_map{
+    float: left;
+    width: 50%;
+    margin-top:40px;
+  }
+
+  #access_txt{
+    float: right;
+    width: 50%;
+    text-align: center;
+    margin-top: 160px;
+  }
+
+  
+  footer{
+    
+   background-color: #C20C23;
+    margin-top: 80px;
+      margin: 0;
+      margin-top: 150px;
+      padding: 0;
+  }
+  .footer_logo{
+    margin: 10px auto;
+    float: center;
+    width: 10%;    
+    margin-top: 50px;
+    padding-left: 450px;
+  }
+
+  .jump_2{
+    float: right;
+    width: 20%;
+    margin-top:-60px;
+  }
+
+ 
